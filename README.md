@@ -1,6 +1,6 @@
-# Ctrl Play 🎮
+# AR/AOlink Play 
 
-Ctrl Play is a hub for retro-style games built on [@aoTheComputer](https://twitter.com/aoTheComputer) and powered by [@arweaveeco](https://twitter.com/arweaveeco). This platform offers a collection of exciting games with on-chain social profiles and scores. These social profiles are built on the **Pulse Protocol**, making them reusable across any platform using Pulse.
+AR/AOlink Play is a hub for retro-style games built on [@aoTheComputer](https://twitter.com/aoTheComputer) and powered by [@arweaveeco](https://twitter.com/arweaveeco). This platform offers a collection of exciting games with on-chain social profiles and scores. These social profiles are built on the **Pulse Protocol**, making them reusable across any platform using Pulse.
 
 ![image](https://github.com/user-attachments/assets/76e71ce4-bf36-413f-abce-f680bb7e51d1)
 
@@ -8,7 +8,7 @@ Ctrl Play is a hub for retro-style games built on [@aoTheComputer](https://twitt
 
 ## ✨ Features
 
-### 🚀 Retro-Style Games
+### 🚀 Style Games
 - **Games List**: Includes popular classics like *4 Cards*, *Just Slide*, *Weave Word*, *Pacman*, *Chess*, and more.
 - **Interactivity**: Each game is treated as a POST on the **Pulse Protocol**, allowing users to comment and interact.
 
